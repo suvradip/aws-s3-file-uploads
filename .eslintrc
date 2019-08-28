@@ -1,0 +1,12 @@
+{
+   "extends": ["airbnb-base", "prettier"],
+   "rules": {
+      "no-console": "warn",
+      "no-unused-expressions": [
+         "error",
+         {
+            "allowShortCircuit": true
+         }
+      ]
+   }
+}
