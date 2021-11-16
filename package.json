@@ -38,7 +38,7 @@
       "lint-staged": "^8.1.4"
    },
    "dependencies": {
-      "aws-sdk": "^2.518.0",
+      "aws-sdk": "^2.814.0",
       "dotenv": "^8.1.0",
       "signale": "^1.4.0",
       "uid": "0.0.2"
